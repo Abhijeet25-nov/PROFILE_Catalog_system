@@ -14,7 +14,7 @@ User authentication is handled through a JSON file that stores username–passwo
 
 ---
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 ### **1. Create and activate a virtual environment**
 ```bash
@@ -61,7 +61,7 @@ project/
 
 ---
 
-## 🔧 How It Works
+## How It Works
 
 ### **1. User Login**
 Credentials are stored in `ID_PASS.json` like:
